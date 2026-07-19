@@ -1,6 +1,6 @@
-# TomatoLink — Spoilage-Risk Prediction (Module 3)
+# FreshAm — Spoilage-Risk Prediction (Module 3)
 
-Machine learning module for **TomatoLink**, a platform reducing post-harvest tomato losses in Nigeria. Given a batch's storage and transport conditions, the model predicts spoilage percentage and returns a **Sell / Store / Divert** recommendation a farmer can act on immediately.
+Machine learning module for **Fresham**, a platform reducing post-harvest tomato losses in Nigeria. Given a batch's storage and transport conditions, the model predicts spoilage percentage and returns a **Sell / Store / Divert** recommendation a farmer can act on immediately.
 
 Built for the TechyJaunt Sprint — Tomato Case Study.
 
