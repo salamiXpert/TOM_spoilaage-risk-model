@@ -1,5 +1,5 @@
 """
-TomatoLink - Module 3: Spoilage-Risk Prediction
+Fresham - Module 3: Spoilage-Risk Prediction
 =================================================
 Data Science / AI-ML deliverable for the TechyJaunt "Tomato Case Study" sprint.
 
